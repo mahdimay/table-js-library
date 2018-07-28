@@ -63,4 +63,9 @@ If no data shows up after search the library tells user why. If you want to add 
 ```
 <div id="alertbox"></div>
 ```
+#### Include JQuery
+Remember you need to include a jquery CDN to run this library. Example:
+```
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+```
 ### AND YOU ARE DONE! If you need to see the example please check sample.html file in this repository.
