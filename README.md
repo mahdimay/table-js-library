@@ -68,4 +68,9 @@ Remember you need to include a jquery CDN to run this library. Example:
 ```
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 ```
+#### Include Table JS Library file
+Include table.js file in your project to use this library. Example:
+```
+<script src="table.js"></script>
+```
 ### AND YOU ARE DONE! If you need to see the example please check sample.html file in this repository.
