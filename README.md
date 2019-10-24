@@ -73,4 +73,4 @@ Include table.js file in your project to use this library. Example:
 ```
 <script src="table.js"></script>
 ```
-### AND YOU ARE DONE! If you need to see the example please check sample.html file in this repository.
+### AND CONGRATULATIONS YOU ARE DONE! If you need to see the example please check sample.html file in this repository.
